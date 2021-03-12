@@ -1,1 +1,4 @@
-This is my first code.
+echo "this is for test."
+cal
+echo
+echo 'bye'
